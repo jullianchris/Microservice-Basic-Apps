@@ -1,0 +1,11 @@
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\bin\Debug\net7.0\Orderservice.Models.deps.json
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\bin\Debug\net7.0\Orderservice.Models.dll
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\bin\Debug\net7.0\Orderservice.Models.pdb
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\obj\Debug\net7.0\Orderservice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\obj\Debug\net7.0\Orderservice.Models.AssemblyInfoInputs.cache
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\obj\Debug\net7.0\Orderservice.Models.AssemblyInfo.cs
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\obj\Debug\net7.0\Orderservice.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\obj\Debug\net7.0\Orderservice.Models.dll
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\obj\Debug\net7.0\refint\Orderservice.Models.dll
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\obj\Debug\net7.0\Orderservice.Models.pdb
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\Orderservice.Models\obj\Debug\net7.0\ref\Orderservice.Models.dll

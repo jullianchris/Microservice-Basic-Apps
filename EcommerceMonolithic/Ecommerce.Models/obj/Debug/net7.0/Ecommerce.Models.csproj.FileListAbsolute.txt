@@ -1,0 +1,11 @@
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\bin\Debug\net7.0\Ecommerce.Models.deps.json
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\bin\Debug\net7.0\Ecommerce.Models.dll
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\bin\Debug\net7.0\Ecommerce.Models.pdb
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\obj\Debug\net7.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\obj\Debug\net7.0\Ecommerce.Models.AssemblyInfoInputs.cache
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\obj\Debug\net7.0\Ecommerce.Models.AssemblyInfo.cs
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\obj\Debug\net7.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\obj\Debug\net7.0\Ecommerce.Models.dll
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\obj\Debug\net7.0\refint\Ecommerce.Models.dll
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\obj\Debug\net7.0\Ecommerce.Models.pdb
+C:\Projects\Public Projects\Microservice-Basic-Sample\EcommerceMonolithic\Ecommerce.Models\obj\Debug\net7.0\ref\Ecommerce.Models.dll
