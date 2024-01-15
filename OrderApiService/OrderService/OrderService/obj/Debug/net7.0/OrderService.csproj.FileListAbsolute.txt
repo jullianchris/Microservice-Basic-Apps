@@ -43,3 +43,4 @@ C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderServi
 C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\OrderService\obj\Debug\net7.0\OrderService.pdb
 C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\OrderService\obj\Debug\net7.0\OrderService.genruntimeconfig.cache
 C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\OrderService\obj\Debug\net7.0\ref\OrderService.dll
+C:\Projects\Public Projects\Microservice-Basic-Sample\OrderApiService\OrderService\OrderService\obj\Debug\net7.0\OrderService.sourcelink.json
